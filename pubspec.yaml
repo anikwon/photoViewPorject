@@ -1,0 +1,22 @@
+name: photo_view_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  photo_view:
+  dio:
+  image_gallery_saver:
+
+flutter:
+  uses-material-design: true
